@@ -1,0 +1,9 @@
+[alias]
+	st = status
+	pl = pull
+	ps = push
+	rs = restore
+	del = !git branch --delete
+	cb = !git checkout -b
+	pso = !git push -u origin
+	cm = !git commit -m
